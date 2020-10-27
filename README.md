@@ -9,4 +9,4 @@ Training
 
 Training of the yolov3-tiny model was done on google colab.
 
-Since our news application is ios based, therefore the model was first converted to keras format and then converted to coreml format.
+Since our news application is ios based, the model was first converted to keras format and then later on converted to coreml format.
